@@ -13,6 +13,8 @@ A person who likes separation of concerns to get crazy 😅 .
 📌 Project
 
 > hugo-theme-tony: https://github.com/ThemeTony/hugo-theme-tony
+>
+> LeanBook(not complete): https://github.com/FFRaycoder/leanbook
 
 💬 Contact
 
