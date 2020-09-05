@@ -1,25 +1,27 @@
-### Hi there 👋
+## Hi there! I'm Ray 👋
 
 ![](https://raw.githubusercontent.com/FFRaycoder/FFRaycoder/master/timg.gif)
 
-This is `Ray`, a middle school student 🐷 in 🇨🇳.
+> No matter how dark the night is, the whiteness of snow cannot be overwhelmed.
 
-An amateur developer who loves [Vue.js](https://github.com/vuejs/vue)! 💕
+<a href="#">
+  <img align="right" alt="Flexiston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FFRaycoder&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+  <br>
+</a>
 
-A person who likes separation of concerns to get crazy 😅 .
+📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-✨✨✨If you have any questions, please come to me at any time!✨✨✨
+- 🎉 I'm a 14 years old boy.
+- 🎫 I like Vue.
+- 🌱 I'm currently learning Node, JavaScript(Web), Vue, React, CSS.
 
-📌 Project
+### Where To Find Me 🔍
 
-> hugo-theme-tony: https://github.com/ThemeTony/hugo-theme-tony
->
-> LeanBook(not complete): https://github.com/FFRaycoder/leanbook
+- 📝 My Blog: [**Ray's Blog**](https://raycoder.me)
+- ✉️ Email: nn_201312#163.com (Replace # to @)
 
-💬 Contact
+<a href="https://github.com/FFRaycoder?tab=followers">
+  <img alt="Github Followers" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFFRaycoder&style=flat-square">
+</a>
 
-> ZhiHu: https://www.zhihu.com/people/ffraycodr
->
-> Email: nn_201312@163.com
->
-> QQ: 1215926530
+#### Nice to see you! 🤣🤣🤣
