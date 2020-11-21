@@ -5,7 +5,7 @@
 > No matter how dark the night is, the whiteness of snow cannot be overwhelmed.
 
 <a href="#">
-  <img align="right" alt="Flexiston's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FFRaycoder&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+  <img align="right" alt="Ray's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FFRaycoder&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
   <br>
 </a>
 
