@@ -11,9 +11,13 @@
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-- 🎉 I'm a 14 years old boy.
 - 🎫 I like Vue.
 - 🌱 I'm currently learning Node, JavaScript(Web), Vue, React, CSS.
+
+<a href="#">
+  <img align="right" alt="Ray's Github Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFRaycoder&layout=compact">
+  <br>
+</a>
 
 ### Where To Find Me 🔍
 
