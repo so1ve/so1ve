@@ -1,6 +1,6 @@
 ## Hi there! I'm Ray 👋
 
-![](https://raw.githubusercontent.com/FFRaycoder/FFRaycoder/master/timg.gif)
+![](./timg.gif)
 
 > No matter how dark the night is, the whiteness of snow cannot be overwhelmed.
 
@@ -11,8 +11,9 @@
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-- 🎫 I like Vue.
-- 🌱 I'm currently learning Node, JavaScript(Web), Vue, React, CSS.
+- 🎫 I like Frontend.
+- 🌱 I'm currently learning Node, JavaScript(Web), Vue / Nuxt, React / Next, CSS.
+- 😅 What's more, Vercel is really a good platform ~
 
 <a href="#">
   <img align="right" alt="Ray's Github Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=so1ve&layout=compact">
