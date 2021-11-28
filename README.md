@@ -31,6 +31,11 @@
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [暂停更新](https://raycoder.me/p/pause-update/)
+- [图床的千层套路](https://raycoder.me/p/hey-picbed/)
+- [Vue中的{ __ob__: Observer }问题解决](https://raycoder.me/p/vue-ob-observer-problem/)
+- [Python Import This源码剖析](https://raycoder.me/p/python-import-this/)
+- [Vue3的改变有哪些？](https://raycoder.me/p/vue3-design/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Nice to see you! 🤣🤣🤣
