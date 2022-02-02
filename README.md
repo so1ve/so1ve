@@ -9,9 +9,7 @@
 
 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
-- 🎫 I like Frontend.
 - 🌱 I'm currently learning Node, JavaScript(Web), Vue / Nuxt, React / Next, CSS.
-- 😅 What's more, Vercel is really a good platform ~
 
 <a href="#">
   <img align="right" alt="Ray's Github Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=so1ve&hide_border=true&layout=compact">
