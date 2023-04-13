@@ -1,8 +1,11 @@
 name: Update this repo's README with latest blog posts
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -14,5 +17,5 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://raycoder.me/atom.xml"
-          max_post_count: "5"
+          feed_list: "https://blog.mk1.io/api/feed"
+          max_post_count: "3"
