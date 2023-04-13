@@ -1,4 +1,4 @@
-name: Update this repo's README with latest blog posts
+name: Update Posts
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -8,12 +8,13 @@ permissions:
   contents: write
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-posts:
+    name: Update Posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
