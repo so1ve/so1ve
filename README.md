@@ -1,8 +1,6 @@
-## 👋 This is Ray!
+## 👋 This is Ray! <img src="./assets/horse.gif" height="20">
 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
-
-![](./timg.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
