@@ -6,6 +6,11 @@
 - 😍 Rust, Go, TS and Node (Deno) Fan
 - 📱 How to reach me: i#mk1.io, [@so1v3](https://twitter.com/so1v3), ~~[@z](https://mas.mk1.io/@z)~~ Broken
 
+### 😁 About me
+
+- A high school student in China 🇨🇳 ❤️
+- An OSS developer
+
 ### 🚀 Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
