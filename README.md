@@ -2,6 +2,10 @@
 
 [![Sponsor](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
 
+- 💎 I make something useful ~~or useless~~
+- 😍 Rust, Go, TS and Node (Deno) Fan
+- 📱 How to reach me: i#mk1.io, [@so1v3](https://twitter.com/so1v3), ~~[@z](https://mas.mk1.io/@z)~~ Broken
+
 ### 🚀 Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
