@@ -11,6 +11,10 @@
 - A high school student in China 🇨🇳 ❤️
 - An OSS developer
 
+### ⏲️ This week I spent time on...
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=so1ve&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 ### 🚀 Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
