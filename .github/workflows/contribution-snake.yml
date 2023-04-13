@@ -17,8 +17,9 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/contribution-grid-snake.gif
-          svg_out_path: ./assets/contribution-grid-snake.svg
+          outputs: |
+            assets/contribution-snake.svg
+            assets/contribution-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
