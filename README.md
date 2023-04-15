@@ -1,4 +1,4 @@
-## 👋 This is Ray! <img src="./assets/horse.gif" height="20">
+## 👋 This is Ray! <img src="./assets/horse.gif" height="20" width="20">
 
 [![Sponsor](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
 
