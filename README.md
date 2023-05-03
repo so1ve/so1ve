@@ -14,6 +14,11 @@
 ### ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### 🚀 Contribution
