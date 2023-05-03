@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  auto_commit:
+  auto_green:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3      
@@ -14,12 +14,12 @@ jobs:
          persist-credentials: false
          fetch-depth: 0
 
-      - name: Modify last update
+      - name: Update
         run: |
           d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > LAST_UPDATED
 
-      - name: Commit changes
+      - name: Commit
         run: |
           git config --local user.email "i@mk1.io"
           git config --local user.name "so1ve"
@@ -40,7 +40,7 @@ jobs:
 
           git commit -m "${arr[$rand]}"
 
-      - name: Push changes
+      - name: Push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
