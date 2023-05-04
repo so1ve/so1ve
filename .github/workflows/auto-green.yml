@@ -6,42 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  auto_green:
+  auto-green:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read/write
+
     steps:
-      - uses: actions/checkout@v3      
-        with:
-         persist-credentials: false
-         fetch-depth: 0
+      - name: Clone repository
+        uses: actions/checkout@v3
 
-      - name: Update
-        run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-          echo $d > LAST_UPDATED
-
-      - name: Commit
+      - name: Auto green
         run: |
           git config --local user.email "i@mk1.io"
           git config --local user.name "so1ve"
-          git add -A
-
-          arr[0]="chore(bot): 😂 auto green"
-          arr[1]="chore(bot): 😱 auto green"
-          arr[2]="chore(bot): 👿 auto green"
-          arr[3]="chore(bot): 💩 auto green"
-          arr[4]="chore(bot): 🙏 auto green"
-          arr[5]="chore(bot): 🙈 auto green"
-          arr[6]="chore(bot): 🐐 auto green"
-          arr[7]="chore(bot): 🤖 auto green"
-          arr[8]="chore(bot): 🟩 auto green"
-          arr[9]="chore(bot): 👻 auto green"
-
-          rand=$[$RANDOM % ${#arr[@]}]
-
-          git commit -m "${arr[$rand]}"
-
-      - name: Push
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          git commit --allow-empty -m "chore: auto green"
+          git push
