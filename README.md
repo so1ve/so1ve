@@ -11,6 +11,10 @@
 - A high school student in China 🇨🇳 ❤️
 - An OSS developer
 
+### 🔭 Tech stack
+
+![](https://skillicons.dev/icons?i=nodejs,deno,rust,golang,typescript,electron,tauri,tailwind,vue,nuxt)
+
 ### ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
