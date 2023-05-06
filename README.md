@@ -1,6 +1,6 @@
 ## 👋 This is Ray! <img src="./assets/horse.gif" height="20" width="20">
 
-[![Sponsor](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
+[![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
 
 - 💎 I make something useful ~~or useless~~
 - 😍 Rust, Go, TS and Node (Deno) Fan
@@ -13,11 +13,11 @@
 
 ### 🔭 Tech stack
 
-![](https://skillicons.dev/icons?i=nodejs,deno,rust,golang,typescript,electron,tauri,tailwind,vue,nuxt)
+![Tech stack](https://skillicons.dev/icons?i=nodejs,deno,rust,golang,typescript,electron,tauri,tailwind,vue,nuxt)
 
 ### 🛠 Tools I use
 
-![]](https://skillicons.dev/icons?i=vscode,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions)
+![Tools I use](https://skillicons.dev/icons?i=vscode,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions)
 
 ### ⏲️ This week I spent time on...
 
