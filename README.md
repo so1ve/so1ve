@@ -15,6 +15,10 @@
 
 ![](https://skillicons.dev/icons?i=nodejs,deno,rust,golang,typescript,electron,tauri,tailwind,vue,nuxt)
 
+### 🛠 Tools I use
+
+![]](https://skillicons.dev/icons?i=vscode,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions)
+
 ### ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
