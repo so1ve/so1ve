@@ -13,7 +13,7 @@
 
 ### 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=nodejs,deno,rust,golang,typescript,electron,tauri,tailwind,vue,nuxt)
+![Tech stack](https://skillicons.dev/icons?i=nodejs,deno,typescript,rust,golang,electron,tauri,tailwind,vue,nuxt)
 
 ### 🛠 Tools I use
 
