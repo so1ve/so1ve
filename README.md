@@ -42,7 +42,7 @@ Python       0 hrs 10 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ### 📚 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript小寄巧！如何在不使用const泛型修饰符的情况下推导出列表字面量？](https://blog.mk1.io/posts/ts-infer-array-without-const)
 - [快使用 Dprint 换掉你的 Prettier 罢（迫切](https://blog.mk1.io/posts/introduce-dprint)
 - [chi的小红包冒险 v.e.r. 2023](https://blog.mk1.io/posts/chi-rb-2023)
-- [打造一个强大的 PowerShell 终端 =&rpar;](https://blog.mk1.io/posts/powerful-powershell)
 <!-- BLOG-POST-LIST:END -->
