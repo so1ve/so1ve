@@ -23,4 +23,9 @@ jobs:
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           git commit --allow-empty -m "chore: auto green"
+          git commit --allow-empty -m "chore: auto green"
+          git commit --allow-empty -m "chore: auto green"
+          git commit --allow-empty -m "chore: auto green"
+          git commit --allow-empty -m "chore: auto green"
+          git commit --allow-empty -m "chore: auto green"
           git push
