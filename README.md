@@ -11,6 +11,11 @@
 - A high school student in China 🇨🇳 ❤️
 - An OSS developer
 
+### ❤️ Goals for 2023
+
+- [ ] A 100+ stars project
+- [ ] 200 followers
+
 ### 🔭 Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=nodejs,deno,typescript,rust,golang,electron,tauri,tailwind,vue,nuxt)
