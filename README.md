@@ -14,7 +14,7 @@
 ### ❤️ Goals for 2023
 
 - [ ] A 100+ stars project (I hope it will be [UNML](https://github.com/so1ve/unml) or [Clerc](https://github.com/so1ve/clerc))
-- [ ] 200 followers
+- [x] 200 followers - 达成！
 
 ### 🔭 Tech stack
 
