@@ -19,16 +19,6 @@
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions)
 
-### ⏲️ This week I spent time on...
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ### 🚀 Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
