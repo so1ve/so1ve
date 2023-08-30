@@ -1,1 +1,1 @@
-## 👋 <img src="./assets/horse.gif" height="20" width="20">
+## 👋 <img src="./assets/horse.gif" height="40" width="40">
