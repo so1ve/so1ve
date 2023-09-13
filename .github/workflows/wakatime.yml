@@ -1,0 +1,25 @@
+name: Wakatime
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Wakatime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          COMMIT_MESSAGE: "chore: update wakatime"
+          COMMITTER_NAME: "so1ve"
+          COMMITTER_EMAIL: "i@mk1.io"
+          AUTHOR_NAME: "so1ve"
+          AUTHOR_EMAIL: "i@mk1.io"
