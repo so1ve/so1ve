@@ -6,11 +6,6 @@
 - 😍 TypeScript enthusiast, Node.js user, Rust & Go beginner
 - 📱 How to reach me: i#mk1.io, [@so1v3](https://twitter.com/so1v3), ~~[@z](https://mas.mk1.io/@z)~~ Broken, [@1s](https://mas.to/@1s)
 
-### ❤️ Goals for 2023
-
-- [ ] A 100+ stars project
-- [x] 200 followers
-
 ### 🔭 Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=nodejs,deno,typescript,rust,golang,electron,tauri,tailwind,vue,nuxt)
