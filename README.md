@@ -1,6 +1,10 @@
 ## 👋 This is Ray! <img src="./assets/horse.gif" height="20" width="20">
 
+<!--
+
 ### ⚠ I am currently preparing for the college entrance examination, so I will not participate in open source until June 2025.
+
+-->
 
 [![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
 
