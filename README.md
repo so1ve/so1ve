@@ -14,11 +14,11 @@
 
 ### 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=nodejs,deno,typescript,rust,golang,electron,tauri,tailwind,vue,nuxt)
+![Tech stack](https://skills.syvixor.com/api/icons?i=nodejs,deno,typescript,rust,electron,tauri,unocss,vue,nuxt)
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions)
+![Tools I use](https://skills.syvixor.com/api/icons?i=vscode,rolldown,vite,vercel,netlify,cloudflare,git,github,githubactions)
 
 ### ⏲️ This week I spent time on...
 
