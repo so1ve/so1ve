@@ -18,9 +18,8 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.mk1.io/api/feed"
+          feed_list: "https://blog.mk1.io/rss.xml"
           max_post_count: "3"
           commit_message: "chore: update blog posts"
           committer_email: "i@mk1.io"
           committer_username: "so1ve"
-
