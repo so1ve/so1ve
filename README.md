@@ -1,8 +1,6 @@
 ## 👋 This is Ray! <img src="./assets/horse.gif" height="20" width="20">
 
-[![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/@so1ve)
-
-TypeScript enthusiast, Node.js user, Rust & Go beginner
+<img src="https://skillicons.dev/icons?i=typescript" height="15" width="15"> enthusiast, <img src="https://skillicons.dev/icons?i=rust" height="15" width="15"> beginner
 
 <!--START_SECTION:waka-->
 
