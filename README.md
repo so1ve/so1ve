@@ -1,6 +1,6 @@
 ## 👋 This is Ray! <img src="./assets/horse.gif" height="20" width="20">
 
-<img src="https://skillicons.dev/icons?i=typescript" height="15" width="15"> enthusiast, <img src="https://skillicons.dev/icons?i=rust" height="15" width="15"> beginner
+A **TypeScript** enthusiast, **Rust** beginner
 
 <!--START_SECTION:waka-->
 
