@@ -42,10 +42,3 @@ YAML            53 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
   <img alt="github-snake" src="./assets/contribution-snake.svg" />
 </picture>
-
-### 📚 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- [迟来了一个月的 2023 年度总结 + 2024 新年快乐！](https://blog.mk1.io/posts/bye-2023)
-- [TypeScript小寄巧！如何在不使用const泛型修饰符的情况下推导出列表字面量？](https://blog.mk1.io/posts/ts-infer-array-without-const)
-- [快使用 Dprint 换掉你的 Prettier 罢（迫切](https://blog.mk1.io/posts/introduce-dprint)
-<!-- BLOG-POST-LIST:END -->
